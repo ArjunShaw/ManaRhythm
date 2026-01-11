@@ -1,9 +1,12 @@
-# dependencies
+# Node
 node_modules/
 
-# environment variables
+# Env
 .env
-Server/.env
 
-# logs
-npm-debug.log*
+# Build
+dist/
+build/
+
+# OS
+.DS_Store
